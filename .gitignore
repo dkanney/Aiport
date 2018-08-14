@@ -1,0 +1,11 @@
+# Ignore CVS directories
+CVS/
+
+# Ignore .project
+/.project
+
+# Ignore .submit
+/.submit
+
+# Ignore .submitUser
+/.submitUser
